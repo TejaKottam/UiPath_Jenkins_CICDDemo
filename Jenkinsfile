@@ -7,10 +7,10 @@ pipeline {
 	        MAJOR = '1'
 	        MINOR = '0'
 	        //Orchestrator Services
-	        UIPATH_ORCH_URL = "https://abcbstest/"
+	        UIPATH_ORCH_URL = "https://amitech-rpa-poc-7mbg7dqeooavw.azurewebsites.net/"
 	        UIPATH_ORCH_LOGICAL_NAME = "DEV"
 	        UIPATH_ORCH_TENANT_NAME = "Default"
-	        UIPATH_ORCH_FOLDER_NAME = "Shared"
+	        UIPATH_ORCH_FOLDER_NAME = "Default"
 	    }
 	
 
